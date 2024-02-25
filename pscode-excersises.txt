@@ -26,10 +26,9 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-Input 5 numbers seperatly
-add the numbers together
-divide by total amount
-locate smallest and largest number
-print results of b and c detailing results
-
+ by getting inputs for the 5 values
+Next, the average of the 5 values is calculated
+The fourth line iterates through the numbers
+Within the iteration, there are 2 conditional statements that calculate the smallest and the largest values
+The last three lines print the average, the smallest and the largest input
 -- END --
